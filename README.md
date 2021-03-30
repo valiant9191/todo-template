@@ -1,4 +1,4 @@
-# Todo-app
+#### Todo-app
 
 
 # Description
@@ -7,7 +7,7 @@ Simple project based on React.
 https://todo-app-val.netlify.app/
 
 
-### Downloading
+## Downloading
 # `using terminal commands`
     git clone https://github.com/valiant9191/todo-template.git
       Will download files from github to your local computer
