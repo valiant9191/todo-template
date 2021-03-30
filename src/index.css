@@ -4,10 +4,16 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+body{  
+  background-image: url('https://i.pinimg.com/originals/3a/ae/75/3aae75aea4455fcede51c7a98f8b8485.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
 }
